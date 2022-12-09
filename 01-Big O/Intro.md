@@ -6,12 +6,17 @@ Big O notation is a way of describing the performance or complexity of an algori
 
 ## What type of complexities are there ?
 
-There are 2 types of complexities:
--- Time Complexity
---- Time Complexity is the amount of time an algorithm takes to run as the size of the input increases.
---- In is not measured in time but in the number of operations that it take to compleat something.
--- Space Complexity
---- Space Complexity is the amount of memory an algorithm takes to run as the size of the input increases.
+### There are 2 types of complexities:
+
+#### Time Complexity
+
+Time Complexity is the amount of time an algorithm takes to run as the size of the input increases.
+
+### In is not measured in time but in the number of operations that it take to compleat something.
+
+#### Space Complexity
+
+Space Complexity is the amount of memory an algorithm takes to run as the size of the input increases.
 
 ## Which one is better ?
 
