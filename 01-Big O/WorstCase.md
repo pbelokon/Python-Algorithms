@@ -1,7 +1,9 @@
 # When we are dealing with Time and Space complexities we would always see the following three Greek letters: Omega Theta and O (Omicron).
 
 List :
+
 Ω-----θ-----O
+
 1 2 3 4 5 6 7
 
 # There is no best O complexity or Average 0 complexity all type of complexities are divided in the following three:
